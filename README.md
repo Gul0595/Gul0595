@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @Gulshan
+- 👀 I’m interested in Data Science, Machine Learning and AI
+- 🌱 I’m currently learning Python
+- 📫 How to reach me @preetgulshan3@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am more interested in Music than Science 
+
+<!---
+Gul0595/Gul0595 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
